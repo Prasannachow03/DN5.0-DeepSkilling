@@ -1,0 +1,15 @@
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\bin\Debug\net10.0\Exercise2-FactoryMethod.exe
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\bin\Debug\net10.0\Exercise2-FactoryMethod.deps.json
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\bin\Debug\net10.0\Exercise2-FactoryMethod.runtimeconfig.json
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\bin\Debug\net10.0\Exercise2-FactoryMethod.dll
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\bin\Debug\net10.0\Exercise2-FactoryMethod.pdb
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\Exercise2-FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\Exercise2-FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\Exercise2-FactoryMethod.AssemblyInfo.cs
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\Exercise2-FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\Exercise2-FactoryMethod.sourcelink.json
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\Exercise2-FactoryMethod.dll
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\refint\Exercise2-FactoryMethod.dll
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\Exercise2-FactoryMethod.pdb
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\Exercise2-FactoryMethod.genruntimeconfig.cache
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise2-FactoryMethod\obj\Debug\net10.0\ref\Exercise2-FactoryMethod.dll

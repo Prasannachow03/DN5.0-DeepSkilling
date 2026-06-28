@@ -1,0 +1,15 @@
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\bin\Debug\net10.0\Exercise1-Singleton.exe
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\bin\Debug\net10.0\Exercise1-Singleton.deps.json
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\bin\Debug\net10.0\Exercise1-Singleton.runtimeconfig.json
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\bin\Debug\net10.0\Exercise1-Singleton.dll
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\bin\Debug\net10.0\Exercise1-Singleton.pdb
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\Exercise1-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\Exercise1-Singleton.AssemblyInfoInputs.cache
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\Exercise1-Singleton.AssemblyInfo.cs
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\Exercise1-Singleton.csproj.CoreCompileInputs.cache
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\Exercise1-Singleton.sourcelink.json
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\Exercise1-Singleton.dll
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\refint\Exercise1-Singleton.dll
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\Exercise1-Singleton.pdb
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\Exercise1-Singleton.genruntimeconfig.cache
+C:\Users\prasa\Desktop\DN5.0-DeepSkilling\Module1-DesignPatterns\Exercise1-Singleton\obj\Debug\net10.0\ref\Exercise1-Singleton.dll
