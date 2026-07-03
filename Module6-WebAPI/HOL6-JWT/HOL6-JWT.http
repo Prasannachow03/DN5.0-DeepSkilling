@@ -1,0 +1,6 @@
+@HOL6_JWT_HostAddress = http://localhost:5105
+
+GET {{HOL6_JWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

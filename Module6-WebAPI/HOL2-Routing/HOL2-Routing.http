@@ -1,0 +1,6 @@
+@HOL2_Routing_HostAddress = http://localhost:5257
+
+GET {{HOL2_Routing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

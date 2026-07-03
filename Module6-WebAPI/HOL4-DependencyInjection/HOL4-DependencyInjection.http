@@ -1,0 +1,6 @@
+@HOL4_DependencyInjection_HostAddress = http://localhost:5168
+
+GET {{HOL4_DependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

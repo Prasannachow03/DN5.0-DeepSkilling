@@ -1684,8 +1684,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module4-NUnitMoq\\BankingApp\\BankingApp.csproj": {
-              "projectPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module4-NUnitMoq\\BankingApp\\BankingApp.csproj"
+            "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module4-NUnitMoq\\BankingApp\\BankingApp.csproj": {
+              "projectPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module4-NUnitMoq\\BankingApp\\BankingApp.csproj"
             }
           }
         }
