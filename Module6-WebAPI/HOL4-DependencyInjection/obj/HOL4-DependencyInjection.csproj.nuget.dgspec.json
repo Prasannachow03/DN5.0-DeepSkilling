@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\HOL4-DependencyInjection.csproj": {}
+    "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\HOL4-DependencyInjection.csproj": {}
   },
   "projects": {
-    "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\HOL4-DependencyInjection.csproj": {
+    "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\HOL4-DependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\HOL4-DependencyInjection.csproj",
+        "projectUniqueName": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\HOL4-DependencyInjection.csproj",
         "projectName": "HOL4-DependencyInjection",
-        "projectPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\HOL4-DependencyInjection.csproj",
+        "projectPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\HOL4-DependencyInjection.csproj",
         "packagesPath": "C:\\Users\\prasa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\obj\\",
+        "outputPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL4-DependencyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prasa\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\HOL5-Middleware.csproj": {}
+    "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\HOL5-Middleware.csproj": {}
   },
   "projects": {
-    "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\HOL5-Middleware.csproj": {
+    "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\HOL5-Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\HOL5-Middleware.csproj",
+        "projectUniqueName": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\HOL5-Middleware.csproj",
         "projectName": "HOL5-Middleware",
-        "projectPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\HOL5-Middleware.csproj",
+        "projectPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\HOL5-Middleware.csproj",
         "packagesPath": "C:\\Users\\prasa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\obj\\",
+        "outputPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL5-Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prasa\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\HOL2-Routing.csproj": {}
+    "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\HOL2-Routing.csproj": {}
   },
   "projects": {
-    "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\HOL2-Routing.csproj": {
+    "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\HOL2-Routing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\HOL2-Routing.csproj",
+        "projectUniqueName": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\HOL2-Routing.csproj",
         "projectName": "HOL2-Routing",
-        "projectPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\HOL2-Routing.csproj",
+        "projectPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\HOL2-Routing.csproj",
         "packagesPath": "C:\\Users\\prasa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\obj\\",
+        "outputPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL2-Routing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prasa\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HOL2-Routing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce09b15b91c7e14f44120974b05a60dcf6665a43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8002999b82429f3b1e3473b71a9db3f220704be6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HOL2-Routing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HOL2-Routing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

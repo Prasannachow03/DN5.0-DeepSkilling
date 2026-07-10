@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\HOL3-Validation.csproj": {}
+    "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\HOL3-Validation.csproj": {}
   },
   "projects": {
-    "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\HOL3-Validation.csproj": {
+    "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\HOL3-Validation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\HOL3-Validation.csproj",
+        "projectUniqueName": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\HOL3-Validation.csproj",
         "projectName": "HOL3-Validation",
-        "projectPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\HOL3-Validation.csproj",
+        "projectPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\HOL3-Validation.csproj",
         "packagesPath": "C:\\Users\\prasa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\obj\\",
+        "outputPath": "C:\\Users\\prasa\\Desktop\\DN5.0-DeepSkilling\\Module6-WebAPI\\HOL3-Validation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prasa\\AppData\\Roaming\\NuGet\\NuGet.Config"
